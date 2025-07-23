@@ -1,0 +1,6 @@
+rdkit
+networkx
+pandas
+openpyxl
+matplotlib
+requests

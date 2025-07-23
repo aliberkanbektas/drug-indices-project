@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Topological Indices of Drug Molecules via Molecular Graphs"
+authors:
+  - family-names: Bektaş
+    given-names: Ali Berkan
+    orcid: https://orcid.org/0009-0003-9305-5587
+  - family-names: Kara
+    given-names: Yeliz
+    orcid: https://orcid.org/0000-0002-8001-6082
+  - family-names: Özkan
+    given-names: Yeşim Sağlam
+    orcid: https://orcid.org/0000-0002-1364-5137
+date-released: 2025-07-23
+version: "1.0.0"
+doi: 10.5281/zenodo.16362574
+license: MIT
+repository-code: https://github.com/aliberkanbektas/drug-indices-project
