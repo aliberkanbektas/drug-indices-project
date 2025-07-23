@@ -80,5 +80,5 @@ This project is licensed under the MIT License.
 ## Citation
 
 If you use this project, please cite it using the following DOI: 
-[![DOI](https://zenodo.org/badge/1024875839.svg)](https://doi.org/10.5281/zenodo.16362573)
+[![DOI](https://zenodo.org/badge/1024912840.svg)](https://doi.org/10.5281/zenodo.16363897)
 
