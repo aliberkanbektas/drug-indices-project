@@ -27,7 +27,7 @@ drug-indices-project/
 ├── requirements.txt      # Python dependencies
 ├── README.md             # Project documentation
 ├── .gitignore            # Ignored files/folders
-└── LICENSE               # MIT license
+├── LICENSE               # MIT license
 └── citation.cff          # Citation metadata
 ```
 
