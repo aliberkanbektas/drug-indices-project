@@ -35,7 +35,7 @@ drug-indices-project/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/aliberkanbektas/drug-indices-project.git
+   git clone https://github.com/aliberkanbektas/drug-indices-project_1
    cd drug-indices-project
    ```
 
