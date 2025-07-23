@@ -28,7 +28,7 @@ drug-indices-project/
 ├── README.md             # Project documentation
 ├── .gitignore            # Ignored files/folders
 ├── LICENSE               # MIT license
-└── citation.cff          # Citation metadata
+└── citation.cff          # Academic citation info
 ```
 
 ## Installation
